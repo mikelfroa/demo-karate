@@ -6,7 +6,7 @@ function() {
   }
   var config = {
     env: env,
-	urlTareas: 'https://aplicacionesd.mutua.es/tareas/api/v1'
+	urlJsonplaceholder: 'https://jsonplaceholder.typicode.com'
   }
   if (env == 'dev') {
     // customize
