@@ -7,6 +7,7 @@ function() {
   var config = {
     env: env,
 	urlJsonplaceholder: 'https://jsonplaceholder.typicode.com'
+
   }
   if (env == 'dev') {
     // customize
